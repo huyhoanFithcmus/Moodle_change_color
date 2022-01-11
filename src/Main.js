@@ -73,3 +73,13 @@ var btn_succeed = document.getElementsByClassName('btn-outline-success');
 for(var i = 0; i < btn_succeed.length; i++) {
     btn_succeed[i].style.color = "#2e5185";
 }
+
+var grade_table = document.getElementsByClassName('header c0');
+for(var i = 0; i < grade_table.length; i++) {
+    grade_table[i].style.backgroundColor = "#2e5185";
+}
+
+var grade_tabl1 = document.getElementsByClassName('header c1');
+for(var i = 0; i < grade_table1.length; i++) {
+    grade_table1[i].style.backgroundColor = "#2e5185";
+}
