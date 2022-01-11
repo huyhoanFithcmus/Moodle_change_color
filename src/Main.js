@@ -83,3 +83,6 @@ var grade_tabl1 = document.getElementsByClassName('header c1');
 for(var i = 0; i < grade_table1.length; i++) {
     grade_table1[i].style.backgroundColor = "#2e5185";
 }
+
+var text_muted = document.getElementsByClassName('text-muted');
+text_muted.style.setProperty("color", "#88b77b", "important")
