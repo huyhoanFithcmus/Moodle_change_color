@@ -1,4 +1,4 @@
-# HCMUS Moodle Darkmode Theme 
+# HCMUS Moodle Blue Theme 
 
 ## Đây là dự án biến tấu trang web moodle của chương trình đề án khoa công nghệ thông tin Trường Đại học Khoa học Tự nhiên - ĐHQGHCM thành một trang web moodle với theme của moodle của chương trình chuẩn.
 
